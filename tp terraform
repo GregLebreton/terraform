@@ -1,0 +1,36 @@
+*** TP TERRAFORM ***
+
+port 22 & 80
+    |
+    |
+
+PRESENTATION   --->  tech
+------------
+* 2VMs
+
+port 7050
+    |
+    |
+
+METIER    --->  apps
+------
+* 1VM
+
+port 1251
+    |
+    |
+
+DONNEES   --->  data
+-------
+* 1 VM
+    |
+    |
+port 445
+
+
+
+
+- environnement DEV
+
+- 3 virtual network
+- 3 sous reseaux
